@@ -40,3 +40,5 @@ program_25.py - the maximum number of array jumps to reach the array.
 program_26.py - reverse to convert the number into mirror.
 program_27.py - collections of numbers ,return all possible unique.
 program_28.py - array of strings strs,group
+program_29.py -
+program_30.py - 
