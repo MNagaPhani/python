@@ -39,6 +39,20 @@ program_24.py - the two binary strings a,b,return their sum as a binary string.
 program_25.py - the maximum number of array jumps to reach the array.
 program_26.py - reverse to convert the number into mirror.
 program_27.py - collections of numbers ,return all possible unique.
-program_28.py - array of strings strs,group
-program_29.py -
-program_30.py - 
+program_28.py - array of strings strs,group.
+program_29.py - the input string s and a pattern p,implement regular expression.
+program_30.py - the minimum number of operations requried to convert word 1 and word 2.
+
+DAY _ 4 :
+
+program_31.py - 
+program_32.py - 
+program_33.py -
+program_34.py -
+program_35.py -
+program_36.py -
+program_37.py -
+program_38.py -
+program_39.py -
+program_40.py -
+
