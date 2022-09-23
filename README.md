@@ -43,16 +43,28 @@ program_28.py - array of strings strs,group.
 program_29.py - the input string s and a pattern p,implement regular expression.
 program_30.py - the minimum number of operations requried to convert word 1 and word 2.
 
-DAY _ 4 :
+DAY - 4 :
 
-program_31.py - 
-program_32.py - 
-program_33.py -
-program_34.py -
-program_35.py -
-program_36.py -
-program_37.py -
-program_38.py -
-program_39.py -
-program_40.py -
+program_31.py - integer n teturn as a string.
+program_32.py - find the number of student users in the college.
+program_33.py - number are smaller then the current number.
+program_34.py - valid palindrome.
+program_35.py - string from the first element.
+program_36.py - a function delchar(s,c)that takes as a string s and c.
+program_37.py - count  sorted vowels strings. 
+program_38.py - roman to integer.
+program_39.py - the user will enter the name of the month as a string.
+program_40.py - scramble string.
 
+DAY -5 :
+
+program_41.py -
+program_42.py -
+program_43.py -
+program_44.py -
+program_45.py -
+program_46.py -
+program_47.py -
+program_48.py -
+program_49.py -
+program_50.py -
