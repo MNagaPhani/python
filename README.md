@@ -58,7 +58,7 @@ program_40.py - scramble string.
 
 DAY -5 :
 
-program_41.py - the  
+program_41.py - the length of the last word in the string. 
 program_42.py -
 program_43.py -
 program_44.py -
